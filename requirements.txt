@@ -5,3 +5,4 @@ transformers
 fastapi
 sentencepiece
 sacremoses
+torch
